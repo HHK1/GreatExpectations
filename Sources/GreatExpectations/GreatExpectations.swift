@@ -6,7 +6,7 @@
 
 import XCTest
 
-extension XCTestCase {
+public extension XCTestCase {
     func expect(_ named: String = #function, limitingTo: TimeInterval = 5.0, performing: @escaping ((XCTestExpectation) -> ())) {
         let exp = expectation(description: named)
         performing(exp)

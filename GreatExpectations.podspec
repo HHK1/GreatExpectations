@@ -8,8 +8,8 @@ Pod::Spec.new do |spec|
     spec.author = { "Jack Rostron" => "jack@rostron.org.uk" }
     spec.source = { :git => "https://github.com/unsignedintellects/GreatExpectations.git", :tag => "#{spec.version}" }
     spec.source_files = "Sources/GreatExpectations/*.swift"
+    spec.framework = 'XCTest'
     spec.swift_version = '4.2'
     spec.ios.deployment_target = "9.0"
     spec.osx.deployment_target = "10.9"
-    spec.watchos.deployment_target = "3.0"
 end
