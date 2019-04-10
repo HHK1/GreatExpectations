@@ -1,14 +1,14 @@
 <p align="center">
-    <img src="Logo.png" width="998" max-width="90%" alt="in2plane" /><br>
-	<img src="https://img.shields.io/badge/Language-Swift-orange.svg" />
-	
-	<a href="https://swift.org/package-manager">
-        <img src="https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat" alt="Swift Package Manager" />
-    </a>
-	
-	<a href="https://twitter.com/unsignedints">
-        <img src="https://img.shields.io/badge/twitter-@unsignedints-blue.svg?style=flat" alt="Twitter: @unsignedints" />
-    </a>
+<img src="Logo.png" width="998" max-width="90%" alt="in2plane" /><br>
+<img src="https://img.shields.io/badge/Language-Swift-orange.svg" />
+
+<a href="https://swift.org/package-manager">
+<img src="https://img.shields.io/badge/spm-compatible-brightgreen.svg?style=flat" alt="Swift Package Manager" />
+</a>
+
+<a href="https://twitter.com/unsignedints">
+<img src="https://img.shields.io/badge/twitter-@unsignedints-blue.svg?style=flat" alt="Twitter: @unsignedints" />
+</a>
 </p>
 
 <p align="center">
